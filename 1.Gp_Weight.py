@@ -21,8 +21,8 @@ warnings.filterwarnings("ignore")
 randomSeeds=30
 
 
-path_train =r"F:\工作 pycharm\4.回归问题——第二篇sci\3.审稿后重做实验\螃蟹全重数据集和结果记录\CrabAgePrediction_train.csv"
-path_test =r"F:\工作 pycharm\4.回归问题——第二篇sci\3.审稿后重做实验\螃蟹全重数据集和结果记录\CrabAgePrediction_test.csv"
+path_train =r"F:\工作 pycharm\4.回归问题——第二篇sci\3.审稿后重做实验\螃蟹全重数据集和结果记录\CrabWeightPrediction_train.csv"
+path_test =r"F:\工作 pycharm\4.回归问题——第二篇sci\3.审稿后重做实验\螃蟹全重数据集和结果记录\CrabWeightPrediction_test.csv"
 
 Gp_Tree_save_place_hof = r"F:\工作 pycharm\4.回归问题——第二篇sci\3.审稿后重做实验\螃蟹全重数据集和结果记录\hof_best_tree_4"
 
