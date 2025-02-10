@@ -1,7 +1,9 @@
 # GP-for-Crab-Weight
-## Explainable models for predicting crab weight based on genetic programming.
+## paper's name, Explainable models for predicting crab weight based on genetic programming.
 
+Dataset source: https://www.kaggle.com/datasets/sidhus/crab-age-prediction
 
+Notes:The data set uploaded in this project is cleaned data. See the paper for details.
 
 (1) If you need to use the code, make sure to follow the configuration steps carefully.
 
