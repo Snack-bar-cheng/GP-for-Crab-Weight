@@ -21,10 +21,14 @@ import warnings
 randomSeeds=30
 
 
-path_train =r"F:\工作 pycharm\CrabWeightPrediction_train.csv"
-path_test =r"F:\工作 pycharm\CrabWeightPrediction_test.csv"
+path_train =r"CrabWeightPrediction_train.csv"
+path_test =r"CrabWeightPrediction_test.csv"
 
-Gp_Tree_save_place_hof = r"F:\工作 pycharm\hof_best_tree_4"
+# path_train =r"CrabShuckedWeightPrediction_train.csv"
+# path_test =r"CrabShuckedWeightPrediction_test.csv"
+
+
+Gp_Tree_save_place_hof = r"hof_best_tree_4"
 
 train_data = np.loadtxt(path_train, delimiter=',', skiprows=1)
 test_data = np.loadtxt(path_test, delimiter=',', skiprows=1)
